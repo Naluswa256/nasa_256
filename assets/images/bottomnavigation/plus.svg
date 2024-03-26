@@ -1,0 +1,27 @@
+<!-- <svg width="98" height="53" viewBox="0 0 98 53" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.597536 0C0.204212 2.33834 0 4.73541 0 7.17709C0 32.4844 21.938 53 49 53C76.062 53 98 32.4844 98 7.17709C98 4.73541 97.7958 2.33834 97.4025 0H0.597536Z" fill="#EA4359"/>
+<g filter="url(#filter0_di_168_3167)">
+<path d="M59.2143 16.495H51.1786V9.19398C51.1786 8.29809 50.3789 7.57153 49.3929 7.57153H47.6071C46.6211 7.57153 45.8214 8.29809 45.8214 9.19398V16.495H37.7857C36.7997 16.495 36 17.2216 36 18.1175V19.7399C36 20.6358 36.7997 21.3623 37.7857 21.3623H45.8214V28.6634C45.8214 29.5593 46.6211 30.2858 47.6071 30.2858H49.3929C50.3789 30.2858 51.1786 29.5593 51.1786 28.6634V21.3623H59.2143C60.2003 21.3623 61 20.6358 61 19.7399V18.1175C61 17.2216 60.2003 16.495 59.2143 16.495Z" fill="#F9F9F9"/>
+</g>
+<defs>
+<filter id="filter0_di_168_3167" x="32" y="7.57153" width="33" height="30.7144" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_168_3167"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_168_3167" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0791667 0 0 0 0 0.0686111 0 0 0 0 0.0686111 0 0 0 0.31 0"/>
+<feBlend mode="normal" in2="shape" result="effect2_innerShadow_168_3167"/>
+</filter>
+</defs>
+</svg> -->
+
+
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50 50" xml:space="preserve" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <circle style="fill:#43B05C;" cx="25" cy="25" r="25"></circle> <line style="fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="25" y1="13" x2="25" y2="38"></line> <line style="fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="37.5" y1="25" x2="12.5" y2="25"></line> </g></svg>

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "586612811469",
+    "project_id": "tak-256",
+    "storage_bucket": "tak-256.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586612811469:android:932b0b5cadb6d12d062b84",
+        "android_client_info": {
+          "package_name": "com.example.tiktok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586612811469-an3lftjeb6brr3pj98vrr5vo8usmeqnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tiktok",
+            "certificate_hash": "83fc02f7f4522c6180e5c687a75e3de8ef92e4ed"
+          }
+        },
+        {
+          "client_id": "586612811469-5ev3n7krujenk7ocv35j1693bsu2lpq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsXDku84oyhBq5TnO-zRs7zMAhK_PzYVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586612811469-5ev3n7krujenk7ocv35j1693bsu2lpq4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "586612811469-9tibf5ud2kuo6v5j0v767iiqssu4rq17.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tiktok.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
